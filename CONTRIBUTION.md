@@ -14,7 +14,7 @@ Une fois vos modifications prêtes, vous ouvrez une Pull Request afin de propose
 
 ## Bonne pratique : isoler son travail dans des branches dédiées
 
-Il est recommandé de ne pas travailler directement sur la branche principale de votre propre fork. Chaque fonctionnalité ou correction devrait plutôt être développée dans une branche dédiée, que vous fusionnez ensuite dans la branche principale de votre fork avant l'ouverture de la Pull Request. Cette approche facilite la synchronisation avec le dépôt d'origine et rend chaque contribution plus simple à isoler et à relire.
+Il est recommandé de ne pas travailler directement sur la branche principale de votre propre fork. Chaque fonctionnalité ou correction devrait être développée dans une branche dédiée. Poussez ensuite cette branche vers votre fork et ouvrez la Pull Request depuis cette branche vers la branche principale du dépôt d'origine. Cette approche facilite la synchronisation avec le dépôt d'origine et rend chaque contribution plus simple à isoler et à relire.
 
 ## Convention de nommage des branches
 
